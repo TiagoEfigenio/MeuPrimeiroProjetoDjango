@@ -1,6 +1,6 @@
 from django.db import models
 
-# Create your models here.
+# Testando conflitos.
 class Funcionario(models.Model):
     CARGOS = [
         ('ES', 'Estagiário'),
